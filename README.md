@@ -8,11 +8,15 @@
 </p>
 
 <p align="center">
+  📄 <a href="https://arxiv.org/pdf/2601.04984">Paper</a>
+</p>
+
+<p align="center">
   <img src="./assets/teaser.png" alt="OceanSplat Overview" width="600px"><br>
   <em>  <sub>OceanSplat overcomes scattering and attenuation effects through trinocular view consistency, preserving object structure and enabling high-quality underwater 3D reconstruction.</sub>
 </em>
 </p>
 
 <p align="center">
-  📄 <a href="https://arxiv.org/pdf/2601.04984">Paper</a>
+  🚧 <b>Code will be available in early February 2026</b>
 </p>
